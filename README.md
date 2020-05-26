@@ -1,1 +1,1 @@
-My completion of the [Data Science: Foundation](https://www.coursera.org/specializations/jhu-data-science) specialization, offered by the Johns Hopkins University via Coursera. I started this course on March 1st, 2020 and finished it on May 27th, 2020.
+My completion of the [Data Science: Foundations using R](https://www.coursera.org/specializations/data-science-foundations-r) specialization, offered by the Johns Hopkins University via Coursera. I started this course on March 1st, 2020 and finished it on May 27th, 2020.
